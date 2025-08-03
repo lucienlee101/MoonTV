@@ -87,3 +87,11 @@
     }
   }
 }
+"custom_category": [
+    {
+      "name": "恐怖",
+      "type": "movie",
+      "query": "恐怖"
+    }
+  ]
+}
